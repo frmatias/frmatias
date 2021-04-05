@@ -5,7 +5,7 @@
 -->
 
 Francisco Matias "Ralph"
-Welcome to my world 
+Welcome to my world
 🌎✈🗺⛹🏻🏄🏻🏖🖖📸🍾🍉🍕🍫🍦🧀🍣🎡🎬🏎📱🔀🎧👨🏽‍💻🇧🇷🇩🇪🇺🇸🇳🇱🇮🇹🇨🇭🇫🇷 
 Rise Up & Attack The Day With Enthusiasm
 
@@ -20,4 +20,6 @@ Rise Up & Attack The Day With Enthusiasm
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![frmatias's GitHub stats](https://github-readme-stats.vercel.app/api?username=frmatias)](https://github.com/frmatias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frmatias&layout=compact)](https://github.com/frmatias/github-readme-stats)
+
+![frmatias's GitHub stats](https://github-readme-stats.vercel.app/api?username=frmatias&count_private=true)
