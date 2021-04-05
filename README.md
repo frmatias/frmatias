@@ -24,4 +24,3 @@ Rise Up & Attack The Day With Enthusiasm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frmatias&layout=compact)](https://github.com/frmatias/github-readme-stats)
 
-![frmatias's GitHub stats](https://github-readme-stats.vercel.app/api?username=frmatias&count_private=true)
