@@ -9,6 +9,6 @@ Welcome to my world<br />
 🌎✈🗺⛹🏻🏄🏻🏖🖖📸🍾🍉🍕🍫🍦🧀🍣🎡🎬🏎📱🔀🎧👨🏽‍💻🇧🇷🇩🇪🇺🇸🇳🇱🇮🇹🇨🇭🇫🇷<br />
 Rise Up & Attack The Day With Enthusiasm
 
-- 📫 How to reach me: [@_fcomatias](https://twitter.com/_fcomatias);
+📫 How to reach me: [@_fcomatias](https://twitter.com/_fcomatias);
 
 
