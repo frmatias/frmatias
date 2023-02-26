@@ -10,6 +10,5 @@ Welcome to my world<br />
 Rise Up & Attack The Day With Enthusiasm
 
 📫 How to reach me:
-[@_fcomatias](https://twitter.com/_fcomatias);
-[vandembergneto@gmail.com]
+[@_fcomatias](https://twitter.com/_fcomatias); <br />[vandembergneto@gmail.com]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frmatias&layout=compact)](https://github.com/frmatias/github-readme-stats)
