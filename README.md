@@ -12,7 +12,7 @@ Rise Up & Attack The Day With Enthusiasm
 📫 How to reach me:
 
 <div>
-<a href="https://twitter.com/_fcomatias" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/_fcomatias" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:vandembergneto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
