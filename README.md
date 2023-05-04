@@ -9,7 +9,10 @@ Welcome to my world<br />
 🌎✈🗺⛹🏻🏄🏻🏖🖖📸🍾🍉🍕🍫🍦🧀🍣🎡🎬🏎📱🔀🎧👨🏽‍💻🇧🇷🇩🇪🇺🇸🇳🇱🇮🇹🇨🇭🇫🇷<br />
 Rise Up & Attack The Day With Enthusiasm
 
-📫 How to reach me:
+<img src="https://komarev.com/ghpvc/?frmatias&style=flat-square&color=blue" alt=""/>
+
+
+📫 How to reach me
 
 <div>
 <a href="https://twitter.com/_fcomatias" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
