@@ -15,7 +15,7 @@ Rise Up & Attack The Day With Enthusiasm
 
 - 🔭 I’m working as a Computer Engineer building web applications.
 - 🌱 Tennis player, kitesurfer, language learner and addicted to books.
-- 🗺️ I speak portuguese, english and french, currently learning german.
+- 💭 I speak portuguese, english and french, currently learning german.
 
 ### 🥷 Developer by day Ninja by night in :
 <div>
