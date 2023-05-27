@@ -17,7 +17,7 @@ Si luchas puedes perder sino luchas estás perdido
 - 🌱 Tennis player, kitesurfer, language learner and addicted to books.
 - 💭 I speak portuguese, english and french, currently learning german.
 
-### 🥷 Developer by day Ninja by night in :
+### 🥷 Developer by day Ninja by night:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
