@@ -7,7 +7,6 @@
 Francisco Matias <br />
 Welcome to my world<br />
 🌎✈🗺⛹🏻🏄🏻🏖🖖📸🍾🍉🍕🍫🍦🧀🍣🎡🎬🏎📱🔀🎧👨🏽‍💻💯🇧🇷🇩🇪🇺🇸🇳🇱🇮🇹🇨🇭🇫🇷<br />
-Si luchas puedes perder sino luchas estás perdido
 
 ---
 
